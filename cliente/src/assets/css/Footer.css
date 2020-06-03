@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@200&display=swap');
+
+.bg-footer {
+  background-color: #84b6df;
+  color: #ffffff;
+  text-align: center;
+  font-size: 14px;
+  padding: 15px;
+  position: fixed;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-family: 'Martel', serif;
+}
+
+.footer-link {
+  color: rgb(255, 255, 255) !important;
+  text-decoration: none !important;
+}

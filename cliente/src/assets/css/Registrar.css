@@ -1,0 +1,10 @@
+.form-header{
+    border-radius: 5px;
+    position: relative;
+    max-width: 100%;
+    margin: 40px auto;
+    padding-bottom: 40px;
+    padding: 50px;
+    background-color: #f3f3f3;
+    box-sizing: border-box;
+}

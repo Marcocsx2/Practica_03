@@ -1,0 +1,29 @@
+.navb .nav-ul .nav-li .nav-a.active,
+.navb .nav-ul .nav-li:hover .nav-a{
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: #00bfa6 !important;
+    font-weight: 600;
+}
+
+.nav-ul{
+    margin-left: auto;
+    margin-right: 20px !important;
+}
+
+.navb .nav-ul .nav-li .nav-a{
+    margin-left: 20px;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+@media (max-width: 575px){
+
+    .nav-li{
+        margin-top: 10px !important;
+    }
+    .nav-a {
+        padding-left: 20px !important;
+    }
+
+}

@@ -1,0 +1,7 @@
+.table-container{
+    position: relative;
+    max-width: 100%;
+    margin: 40px auto;
+    padding: 50px;
+    box-sizing: border-box;
+}
