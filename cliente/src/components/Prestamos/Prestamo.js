@@ -4,7 +4,7 @@ import Footer from '../layout/Footer';
 
 import '../../assets/css/Prestamo.css'
 
-const Prestamo = () => {
+const Prestamo = () => {    
     return (
         <>
             <Header />
